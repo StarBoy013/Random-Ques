@@ -11,6 +11,3 @@ def count_digits(n):
     return count
 
 print(count_digits(-12345))
-
-
-print(299 // 10)
